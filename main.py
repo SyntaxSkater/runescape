@@ -1,5 +1,13 @@
 # main.py
 
+wiki_base_url = "https://oldschool.runescape.wiki/"
+grand_exchange_base_url = "https://prices.runescape.wiki/api/v1/osrs/"
+highscores_base_url = "https://secure.runescape.com/m=hiscore_oldschool/"
+quest_list_from_wiki = "https://oldschool.runescape.wiki/w/Quests/List"
+achievement_diary_from_wiki = "https://oldschool.runescape.wiki/w/Achievement_Diary"
+collection_log_from_wiki = "https://oldschool.runescape.wiki/w/Collection_log"
+money_making_guide_skilling_from_wiki = "https://oldschool.runescape.wiki/w/Money_making_guide/Skilling"
+
 class Application:
     """Main application class."""
 
